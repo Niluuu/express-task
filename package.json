@@ -11,7 +11,7 @@
     "effector-react": "^20.2.2",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "qs": "^6.8.0",
     "react": "^16.9.0",
     "react-advanced-datetimerange-picker": "^1.0.6",
